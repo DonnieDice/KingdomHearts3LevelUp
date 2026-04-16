@@ -9,7 +9,7 @@
 local frame_a = CreateFrame("Frame")
 frame_a:RegisterEvent("PLAYER_LEVEL_UP")
 frame_a:SetScript("OnEvent", function(self, event, ...)
-	PlaySoundFile("Interface\\Addons\\KH3LU\\KH3LU.ogg", "Master")
+	PlaySoundFile("Interface\\Addons\\KingdomHearts3LevelUp\\KingdomHearts3LevelUp.ogg", "Master")
 end)
 
 -- Frame for muting default level up sound
@@ -24,6 +24,6 @@ local frame_c = CreateFrame("Frame")
 frame_c:RegisterEvent("PLAYER_LOGIN")
 frame_c:SetScript("OnEvent", function(self, event, ...)
 	if event == "PLAYER_LOGIN" then
-		print("|c04b2c8ffKH3LU - Kingdom Hearts 3 Level Up!|r Will no longer be receiving updates. Functionality has been merged into |c2d4b92ffBLU - Better Level Up!|r. If you're a fan of my sound addons, |c2d4b92ffBLU - Better Level Up!|r is available from all addon provider websites. Thank you!")
+		print("|c04b2c8ffKingdomHearts3LevelUp - Kingdom Hearts 3 Level Up!|r Will no longer be receiving updates. Functionality has been merged into |c2d4b92ffBLU - Better Level Up!|r. If you're a fan of my sound addons, |c2d4b92ffBLU - Better Level Up!|r is available from all addon provider websites. Thank you!")
 	end
 end)

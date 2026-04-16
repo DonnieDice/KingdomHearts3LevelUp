@@ -5,7 +5,7 @@
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/KH3LU
+## X-Website: https://github.com/donniedice/KingdomHearts3LevelUp
 ## X-Curse-Project-ID: 594592
 ## X-Wago-ID: rkGrEYKy
 ## X-WoWI-ID: 26254
