@@ -1,8 +1,9 @@
 ## Interface: 120005
-## Version: 1.0.11
-## Title:|c04b2c8ffKingdom Hearts 3|r Level Up!
+## Version: 1.0.12
+## Title:  |cffb2c8ffKingdom Hearts 3|r Level Up|cffb2c8ff!|r
+## IconTexture: Interface\AddOns\KingdomHearts3LevelUp\media\icon
 ## Author: DonnieDice
-## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
+## Notes:  Play a Kingdom Hearts 3-inspired level-up sound!  |n|r  |cffb2c8ff/kh3lu -|r Open help  |n|r   |cffb2c8ffBy DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/KingdomHearts3LevelUp
