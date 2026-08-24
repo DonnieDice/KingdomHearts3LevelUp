@@ -10,7 +10,7 @@
 ## Notes:  Play a Kingdom Hearts 3-inspired level-up sound!  |n|r  |cff97a8cf/kh3lu -|r Open help  |n|r   |cff97a8cfBy DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/KingdomHearts3LevelUp
+## X-Website: https://github.com/RGXMods/KingdomHearts3LevelUp
 ## X-Curse-Project-ID: 594592
 ## X-Wago-ID: rkGrEYKy
 ## X-WoWI-ID: 26254
